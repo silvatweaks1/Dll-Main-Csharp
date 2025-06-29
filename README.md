@@ -17,6 +17,6 @@ Apesar de simples, algumas pessoas vendem esse conhecimento de forma indevida.
 
 ---
 
-## Como fazer
+## Preview
 
-- [Tutorial no YouTube](https://www.youtube.com/watch?v=zOX5nkGsK3g)
+![Preview](preview.gif)
